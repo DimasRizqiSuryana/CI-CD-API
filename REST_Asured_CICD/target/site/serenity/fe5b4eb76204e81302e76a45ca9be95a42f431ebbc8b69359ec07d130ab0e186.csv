@@ -1,4 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"User","POST As admin I have be able to create new user","SUCCESS","2023-05-07T23:04:18.9369328+07:00[Asia/Jakarta]","0.0","0.81"
-"User","PUT As admin I have be able to update existing user","SUCCESS","2023-05-07T23:04:19.7577933+07:00[Asia/Jakarta]","0.0","0.9"
-"User","DELETE As admin I have be able to delete existing user","SUCCESS","2023-05-07T23:04:20.6733422+07:00[Asia/Jakarta]","0.0","0.76"

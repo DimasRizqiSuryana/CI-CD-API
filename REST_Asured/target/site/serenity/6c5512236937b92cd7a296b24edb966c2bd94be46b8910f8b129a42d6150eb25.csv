@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User","GET - As admin I have be able to get detail user","SUCCESS","2023-06-09T20:29:36.1356872+07:00[Asia/Jakarta]","0.0","5.2"
+"User","DELETE As admin I have be able to delete existing user","SUCCESS","2023-06-09T20:29:42.7766271+07:00[Asia/Jakarta]","0.0","1.9"
